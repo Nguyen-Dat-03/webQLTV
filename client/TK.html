@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tìm sách theo thể loại</title>
+  <link rel="stylesheet" href="styleTK.css" />
+</head>
+<body>
+  <h1 class="app-title">📚 ỨNG DỤNG QUẢN LÍ THƯ VIỆN</h1>
+  <h2>Tìm sách theo thể loại</h2>
+
+  <div class="form-container">
+    <input type="text" id="genreSearch" placeholder="Nhập thể loại cần tìm" />
+    <button id="searchBtn">Tìm kiếm</button>
+    <button id="exitBtn" class="exit-btn">Thoát</button>
+  </div>
+
+  <div id="resultSection">
+    <h3>Kết quả tìm kiếm</h3>
+    <table id="resultTable">
+      <tr>
+        <th>Tên sách</th>
+        <th>Tác giả</th>
+        <th>Thể loại</th>
+        <th>Năm xuất bản</th>
+      </tr>
+    </table>
+  </div>
+
+  <script src="TK.js"></script>
+</body>
+</html>
