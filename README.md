@@ -35,7 +35,7 @@ WEBQLTV/
 │ |__ models/ # Mô hình dữ liệu MongoDB
 │ |__ .env # Thông tin kết nối MongoDB
 |
-└── README.md
+└── README.md/ # Tài liệu dự án
 
 ---
 
@@ -88,6 +88,8 @@ Triển khai frontend/backend rõ ràng, tách biệt
 🧑‍💻 Tác giả
 Nguyễn Đạt
 📅 Phiên bản đầu tiên: Tháng 10 / 2025
+- Link xem dữ liệu dã nhập vào: https://cloud.mongodb.com/v2/68e5e3b59e41a210c8dfa81e#/metrics/replicaSet/68e5e5de1a1aef050ef47a72/explorer/QLTV/books/find
+- Link xem các dự án khác: https://github.com/Nguyen-Dat-03/webQLTV.git
 
 💬 Liên hệ
 Nếu bạn muốn đóng góp hoặc báo lỗi, vui lòng tạo Issue hoặc Pull Request tại:
