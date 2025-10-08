@@ -16,6 +16,8 @@ Phù hợp cho sinh viên hoặc học viên muốn học **Node.js, Express và
 ---
 
 ## 🏗️ Cấu trúc dự án
+
+```plaintext
 WEBQLTV/
 │
 ├── client/ # Frontend (HTML/CSS + Java Script)
@@ -31,7 +33,7 @@ WEBQLTV/
 │ |__ routes/ # Định nghĩa route API
 │ |__ controller/ # Xử lý logic cho API
 │ |__ models/ # Mô hình dữ liệu MongoDB
-│ |__ .env # Thông tin kết nối MongoDB (KHÔNG PUSH LÊN GITHUB)
+│ |__ .env # Thông tin kết nối MongoDB
 |
 └── README.md
 
@@ -86,9 +88,7 @@ Triển khai frontend/backend rõ ràng, tách biệt
 🧑‍💻 Tác giả
 Nguyễn Đạt
 📅 Phiên bản đầu tiên: Tháng 10 / 2025
-🌐 GitHub Profile
 
 💬 Liên hệ
-
 Nếu bạn muốn đóng góp hoặc báo lỗi, vui lòng tạo Issue hoặc Pull Request tại:
 👉 https://github.com/Nguyen-Dat-03/webQLTV
