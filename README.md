@@ -31,7 +31,7 @@ WEBQLTV/
 │ |__ routes/ # Định nghĩa route API
 │ |__ controller/ # Xử lý logic cho API
 │ |__ models/ # Mô hình dữ liệu MongoDB
-│ |__ .env # Thông tin kết nối MongoDB (KHÔNG PUSH LÊN GITHUB)
+│ |__ .env # Thông tin kết nối MongoDB
 |
 └── README.md
 
